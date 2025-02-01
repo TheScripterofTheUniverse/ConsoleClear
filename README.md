@@ -1,0 +1,2 @@
+# ConsoleClear
+Hacks console.
